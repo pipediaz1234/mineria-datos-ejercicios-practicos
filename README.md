@@ -28,6 +28,9 @@ Estos ejercicios están diseñados para fortalecer la comprensión teórica a tr
 Esta sección presenta el **análisis y validación de modelos predictivos** aplicados a conjuntos de datos reales.
 Incluye el cálculo de **métricas de desempeño** como **R²**, **RMSE** y **MAE**, la comparación entre distintos **hiperparámetros** y visualizaciones que permiten identificar niveles de **ajuste, sobreajuste y subajuste**.
 El objetivo es **evaluar la capacidad de generalización y precisión** de los modelos mediante un enfoque técnico y analítico, destacando las fortalezas y limitaciones de cada configuración.
+### Análisis y modelado del consumo energético
+Este proyecto presenta un análisis y modelado predictivo de datos energéticos, orientado a la optimización del consumo y la sostenibilidad ambiental.
+Se realiza una exploración de los datos, limpieza y transformación para mejorar su calidad analítica, seguida de la aplicación de distintos modelos de aprendizaje automático —como Regresión Lineal y Bosque Aleatorio— con el objetivo de identificar patrones, estimar el consumo energético y evaluar la eficiencia.
 
 ---
 
