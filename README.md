@@ -42,13 +42,16 @@ El objetivo principal es evaluar su rendimiento y adecuación en tareas de segme
 - K-Means
 - DBSCAN
 - Mean Shift
+  
 **Cada algoritmo fue analizado con base en los siguientes criterios:**
 - Número y forma de los clusters detectados
 - Capacidad para manejar ruido y valores atípicos
 - Complejidad computacional
 - Interpretación visual de los resultados
+  
 **Objetivo del Estudio:** 
 Determinar cuál de los algoritmos evaluados ofrece el mejor desempeño según las características del conjunto de datos, aportando una guía práctica para seleccionar la técnica más adecuada en distintos escenarios de análisis.
+
 ---
 
 ## Tecnologías y Librerías Utilizadas
