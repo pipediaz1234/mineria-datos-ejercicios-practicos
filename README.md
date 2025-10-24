@@ -37,6 +37,7 @@ Se realiza una exploración de los datos, limpieza y transformación para mejora
 **Descripción General**
 Este proyecto presenta un análisis comparativo de diferentes algoritmos de clustering implementados en Python.
 El objetivo principal es evaluar su rendimiento y adecuación en tareas de segmentación no supervisada, considerando la forma, densidad y distribución de los datos.
+
 **Algoritmos Implementados:** 
 - K-Means
 - DBSCAN
